@@ -8,7 +8,7 @@ Each api call only returns `json data`. It fits if you simply verify your api ca
 Port number can be set with `-p` option. (default: `8080`)
 
 ```
-fake-json-server -p 8888
+npm start -p 8888
 ```
 
 # routes.json
