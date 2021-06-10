@@ -1,0 +1,18 @@
+{
+  "getPhotos": {
+    "photo": "photo.jpg"
+  },
+
+  "getNames": {
+    "name": "young"
+  },
+
+  "postPhotos": {
+    "result": "ok",
+    "photo": "photo.png"
+  },
+  "postNames": {
+    "result": "ok",
+    "name": ["young", "ddong"]
+  }
+}

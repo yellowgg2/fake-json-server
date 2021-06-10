@@ -1,0 +1,17 @@
+{
+  "get": {
+    "routes": [
+      { "route": "/api/photos", "key": "getPhotos" },
+      { "route": "/api/names/:id", "key": "getNames" }
+    ]
+  },
+  "post": {
+    "routes": [
+      { "route": "/api/photos", "key": "postPhotos" },
+      {
+        "route": "/api/names",
+        "key": "getNames"
+      }
+    ]
+  }
+}
